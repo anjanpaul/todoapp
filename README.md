@@ -1,3 +1,3 @@
 # todoapp
 # Install Docker && Docker Compose
-# and run docker compose up --build
+# and run in command line $ docker compose up --build
